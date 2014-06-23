@@ -1,0 +1,15 @@
+dependencies:
+- rpm:
+  - gcc
+  - glibc-devel
+  - automake
+  - autoconf
+  - valgrind
+  - gdb
+  - strace
+devassistant_version: 0.9.1
+original_kwargs:
+  github: !!python/unicode 'tradejpokus'
+  name: !!python/unicode '/home/tradej/development/mypokus'
+project_type:
+- c
